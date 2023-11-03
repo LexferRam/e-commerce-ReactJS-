@@ -10,7 +10,7 @@ const MyOrders = () => {
   return (
     <Layout>
       <div className="flex justify-center items-center w-80 relative mb-6">
-        <h1>My Orderss</h1>
+        <h1 className="font-medium text-xl">My Orderss</h1>
       </div>
 
       {
